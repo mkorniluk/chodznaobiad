@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "748490693512",
+    "firebase_url": "https://chodznaobiad.firebaseio.com",
+    "project_id": "chodznaobiad",
+    "storage_bucket": "chodznaobiad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748490693512:android:fa5f158e0603b9f8",
+        "android_client_info": {
+          "package_name": "com.braintri.chodznaobiad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748490693512-l0kvviisg51vdvttjo0416le42p5l2ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb7xt0Vfc2bq0qzP8tohdYF-pzi2MKR9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
